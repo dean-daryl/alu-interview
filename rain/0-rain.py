@@ -29,4 +29,3 @@ def rain(walls):
             continue
         i = i+1
     return total
-
